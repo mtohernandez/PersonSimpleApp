@@ -1,0 +1,16 @@
+C:\Users\Mateo\source\repos\LocationThree\LocationThree\bin\Debug\netstandard2.0\LocationThree.deps.json
+C:\Users\Mateo\source\repos\LocationThree\LocationThree\bin\Debug\netstandard2.0\LocationThree.dll
+C:\Users\Mateo\source\repos\LocationThree\LocationThree\bin\Debug\netstandard2.0\ref\LocationThree.dll
+C:\Users\Mateo\source\repos\LocationThree\LocationThree\bin\Debug\netstandard2.0\LocationThree.pdb
+C:\Users\Mateo\source\repos\LocationThree\LocationThree\obj\Debug\netstandard2.0\LocationThree.csproj.AssemblyReference.cache
+C:\Users\Mateo\source\repos\LocationThree\LocationThree\obj\Debug\netstandard2.0\LocationThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateo\source\repos\LocationThree\LocationThree\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mateo\source\repos\LocationThree\LocationThree\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mateo\source\repos\LocationThree\LocationThree\obj\Debug\netstandard2.0\LocationThree.AssemblyInfoInputs.cache
+C:\Users\Mateo\source\repos\LocationThree\LocationThree\obj\Debug\netstandard2.0\LocationThree.AssemblyInfo.cs
+C:\Users\Mateo\source\repos\LocationThree\LocationThree\obj\Debug\netstandard2.0\LocationThree.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\source\repos\LocationThree\LocationThree\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mateo\source\repos\LocationThree\LocationThree\obj\Debug\netstandard2.0\LocationThree.dll
+C:\Users\Mateo\source\repos\LocationThree\LocationThree\obj\Debug\netstandard2.0\ref\LocationThree.dll
+C:\Users\Mateo\source\repos\LocationThree\LocationThree\obj\Debug\netstandard2.0\LocationThree.pdb
+C:\Users\Mateo\source\repos\LocationThree\LocationThree\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs

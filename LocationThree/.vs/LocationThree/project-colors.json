@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dea28919-95c2-448b-b7e1-df2878024c29": {
+      "ProjectGuid": "dea28919-95c2-448b-b7e1-df2878024c29",
+      "DisplayName": "LocationThree",
+      "ColorIndex": 0
+    },
+    "c76b9326-8df1-48c6-8041-c82aca06b5e3": {
+      "ProjectGuid": "c76b9326-8df1-48c6-8041-c82aca06b5e3",
+      "DisplayName": "LocationThree.Android",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

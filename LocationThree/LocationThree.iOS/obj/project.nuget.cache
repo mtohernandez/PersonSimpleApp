@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tdy+9Pp05fvLhWgjl6eHq6IXMGbzofpZWkiuoyf/oN6xhW5hQPFP2FEH6hE9lYXILpnqtCw6V2i4qXIl1xb1uA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mateo\\source\\repos\\LocationThree\\LocationThree.iOS\\LocationThree.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mateo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mateo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Mateo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

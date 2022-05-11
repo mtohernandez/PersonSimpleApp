@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LocationThree.MainPage"
+             BackgroundColor="black"
+             >
+          
+    
+
+    <StackLayout>
+
+        <Label Text="PERSON APP" Margin="30" HorizontalTextAlignment="Center" FontSize="40" TextColor="White"></Label>
+
+        <Entry x:Name="entAppName" Placeholder="Name" TextColor="White" PlaceholderColor="White"></Entry>
+        <Entry x:Name="entAppLastName" Placeholder="Last Name" TextColor="White" PlaceholderColor="White"></Entry>
+        <Entry x:Name="entAppAge" Placeholder="Age" TextColor="White" PlaceholderColor="White"></Entry>
+        <Entry x:Name="entAppAddress" Placeholder="Address" TextColor="White" PlaceholderColor="White"></Entry>
+
+        <Button Text="Send" Clicked="ButtonClicked" Margin="50" BackgroundColor="DarkBlue" TextColor="White"></Button>
+    </StackLayout>
+
+</ContentPage>
